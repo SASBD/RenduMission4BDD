@@ -4,7 +4,7 @@ Un site web responsive présentant notre travail sur Microsoft Access et SQL. R�
 
 ## 📸 Aperçu
 
-![Capture d'écran du site](./assets/IndexScreenshot.PNG)
+![Capture d'écran du site](./assets/images/IndexScreenshot.PNG)
 
 ---
 
